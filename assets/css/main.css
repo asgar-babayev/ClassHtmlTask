@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.main-nav{
+    width: 100%;
+    height: 10vh;
+    background-color: #2C3E50;
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+    font-weight: 700;
+}
+
+
+.logo{
+    text-transform: uppercase;
+    transition: font-size 0.3s;
+    margin-left: 15%;
+    font-size: 25px;
+    float: left;
+}
+
+.el-color{
+    color: #ffff;
+}
+
+.choise-right{
+float: right;
+margin-right: 10%;
+}
+
+.dp-inline-li{
+    display: inline;
+}
+
+.li-style-type-none{
+    list-style-type: none;    
+}
+
+.txt-decoration-none{
+    text-decoration: none;
+}
+
+.px-lg-3 {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important;
+}
+
+.a-color-change:hover{
+    color: #1ABC9C;
+}
+
+.icon-size{
+    width: 13%;
+}
+
+.mg-left{
+    margin-left: 52rem;
+    margin-top: 15vh;
+}
+
+.backgorund-color{
+    background-color: #1ABC9C;
+}
+
+.h1-main{
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+
+.h2-main{
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+.star-icon{
+text-align: center;
+}
+
+.mg-size{
+    padding: 50px;
+}
